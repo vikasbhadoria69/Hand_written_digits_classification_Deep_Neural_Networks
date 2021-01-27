@@ -35,7 +35,7 @@ Now for the GUI, created a new file in which an interactive window to draw digit
 
 ![alt text](https://github.com/vikasbhadoria69/Hand_written_digits_classification_Deep_Neural_Networks/blob/master/Images/Screenshot%202021-01-27%20012436.png)
 
-* **Output that the model has predicted**
+* **Output that the model has predicted with 99% accuracy**
 
 ![alt text](https://github.com/vikasbhadoria69/Hand_written_digits_classification_Deep_Neural_Networks/blob/master/Images/Screenshot%202021-01-27%20012507.png)
 
